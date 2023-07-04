@@ -12,4 +12,4 @@ int main()
     printf("\n\n\nTemperature in Fahrenheit is: %f ", fahrenheit);
    
     return 0;
-}￼Enter
+}
